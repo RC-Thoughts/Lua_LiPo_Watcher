@@ -1,0 +1,33 @@
+{
+  "default":"en",
+  "en":{
+    "appName":"RCT-LiPo Watcher",
+    "labelSensor":"Sensor Settings",
+    "sensorSel":"Select Sensor",
+    "sensorRx1":"Rx1 Voltage",
+    "sensorRx2":"Rx2 Voltage",
+    "sensorRxB":"RxB Voltage",
+    "cellCount":"Cell Count (S)",
+    "labelAlarm":"Alarm Settings",
+    "alarmValue":"Alarm At (%)",
+    "voiceFile":"Voicefile",
+    "winLabel":"Battery Charge",
+    "lipoLabel":"LiPo Cell",
+    "cell":"Cell"
+  },
+  "de":{
+    "appName":"Spannungsanzeige",
+    "labelSensor":"Sensoren",
+    "sensorSel":"Wähle Sensor",
+    "sensorRx1":"Rx1 Spannung",
+    "sensorRx2":"Rx2 Spannung",
+    "sensorRxB":"RxB Spannung",
+    "cellCount":"Zellen (S)",
+    "labelAlarm":"Alarm Einstellung",
+    "alarmValue":"Alarmpunkt (%)",
+    "voiceFile":"Sprachdatei",
+    "winLabel":"Ladezustand",
+    "lipoLabel":"LiPo Zelle",
+    "cell":"Zelle"
+  }
+}
